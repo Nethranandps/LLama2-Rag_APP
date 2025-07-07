@@ -1,0 +1,359 @@
+[
+  {
+    "Mobile No": "9815400417",
+    "Customer Name": "Ajay Babu",
+    "Model Installed": "Philips HD9216",
+    "Purchase Date": "2024-08-31",
+    "Address": "105, Thiruvananthapuram, Kerala"
+  },
+  {
+    "Mobile No": "+918618884276",
+    "Customer Name": "Nethranand",
+    "Model Installed": "Philips HD9216",
+    "Purchase Date": "2024-08-31",
+    "Address": "105, Bangalore, Karnataka"
+  },
+  {
+    "Mobile No": "9095180379",
+    "Customer Name": "Manoj Narayan",
+    "Model Installed": "Philips HD4928/01",
+    "Purchase Date": "2024-01-25",
+    "Address": "146, Thiruvananthapuram, Kerala"
+  },
+  {
+    "Mobile No": "9954854703",
+    "Customer Name": "Gokul Teja",
+    "Model Installed": "Philips HD4938/01",
+    "Purchase Date": "2023-08-23",
+    "Address": "60, Bengaluru, Karnataka"
+  },
+  {
+    "Mobile No": "9723727934",
+    "Customer Name": "Muthuvel Chandran",
+    "Model Installed": "Philips HL1632",
+    "Purchase Date": "2025-02-23",
+    "Address": "68, Bengaluru, Karnataka"
+  },
+  {
+    "Mobile No": "9470635567",
+    "Customer Name": "Priya Teja",
+    "Model Installed": "Philips HL1606",
+    "Purchase Date": "2025-01-22",
+    "Address": "154, Coimbatore, Tamil Nadu"
+  },
+  {
+    "Mobile No": "9367857458",
+    "Customer Name": "Manoj Raj",
+    "Model Installed": "Philips HD4928/01",
+    "Purchase Date": "2024-08-13",
+    "Address": "6, Bengaluru, Karnataka"
+  },
+  {
+    "Mobile No": "9669904377",
+    "Customer Name": "Divya Chandran",
+    "Model Installed": "Philips HL7756/00",
+    "Purchase Date": "2024-07-09",
+    "Address": "17, Tirupati, Andhra Pradesh"
+  },
+  {
+    "Mobile No": "9778214748",
+    "Customer Name": "Venkatesh Kumar",
+    "Model Installed": "Philips HL1632",
+    "Purchase Date": "2024-01-19",
+    "Address": "88, Chennai, Tamil Nadu"
+  },
+  {
+    "Mobile No": "9342613236",
+    "Customer Name": "Rahul Chandran",
+    "Model Installed": "Philips HL7756/00",
+    "Purchase Date": "2025-03-23",
+    "Address": "92, Tirupati, Andhra Pradesh"
+  },
+  {
+    "Mobile No": "9566431049",
+    "Customer Name": "Naveen Krishna",
+    "Model Installed": "Philips GC1010",
+    "Purchase Date": "2023-09-28",
+    "Address": "122, Mysuru, Karnataka"
+  },
+  {
+    "Mobile No": "9780920121",
+    "Customer Name": "Lakshmi Murthy",
+    "Model Installed": "Philips HD9216",
+    "Purchase Date": "2025-05-09",
+    "Address": "163, Bengaluru, Karnataka"
+  },
+  {
+    "Mobile No": "9101039731",
+    "Customer Name": "Venkatesh Krishna",
+    "Model Installed": "Philips HP8100/46",
+    "Purchase Date": "2024-11-08",
+    "Address": "185, Visakhapatnam, Andhra Pradesh"
+  },
+  {
+    "Mobile No": "9437358152",
+    "Customer Name": "Gayathri Murthy",
+    "Model Installed": "Philips GC1015",
+    "Purchase Date": "2024-01-03",
+    "Address": "137, Tirupati, Andhra Pradesh"
+  },
+  {
+    "Mobile No": "9462856389",
+    "Customer Name": "Sanjay Murthy",
+    "Model Installed": "Philips HD4938/01",
+    "Purchase Date": "2024-03-14",
+    "Address": "24, Madurai, Tamil Nadu"
+  },
+  {
+    "Mobile No": "9649951815",
+    "Customer Name": "Gokul Raj",
+    "Model Installed": "Philips HL1606",
+    "Purchase Date": "2024-04-26",
+    "Address": "21, Madurai, Tamil Nadu"
+  },
+  {
+    "Mobile No": "9687798148",
+    "Customer Name": "Haritha Krishna",
+    "Model Installed": "Philips HD4928/01",
+    "Purchase Date": "2025-03-19",
+    "Address": "30, Hyderabad, Telangana"
+  },
+  {
+    "Mobile No": "9422703641",
+    "Customer Name": "Suresh Narayan",
+    "Model Installed": "Philips HL7756/00",
+    "Purchase Date": "2024-10-07",
+    "Address": "79, Tirupati, Andhra Pradesh"
+  },
+  {
+    "Mobile No": "9187840190",
+    "Customer Name": "Mahesh Reddy",
+    "Model Installed": "Philips HD4938/01",
+    "Purchase Date": "2024-10-06",
+    "Address": "163, Thiruvananthapuram, Kerala"
+  },
+  {
+    "Mobile No": "9618159170",
+    "Customer Name": "Ramesh Reddy",
+    "Model Installed": "Philips HL1645",
+    "Purchase Date": "2023-11-19",
+    "Address": "139, Mysuru, Karnataka"
+  },
+  {
+    "Mobile No": "9467448566",
+    "Customer Name": "Sharanya Kumar",
+    "Model Installed": "Philips GC1905",
+    "Purchase Date": "2024-10-12",
+    "Address": "39, Tirupati, Andhra Pradesh"
+  },
+  {
+    "Mobile No": "9108235237",
+    "Customer Name": "Neha Chandran",
+    "Model Installed": "Philips HP8100/46",
+    "Purchase Date": "2023-08-03",
+    "Address": "180, Mysuru, Karnataka"
+  },
+  {
+    "Mobile No": "9634243011",
+    "Customer Name": "Swathi Reddy",
+    "Model Installed": "Philips HL1645",
+    "Purchase Date": "2024-10-09",
+    "Address": "158, Kochi, Kerala"
+  },
+  {
+    "Mobile No": "9891207096",
+    "Customer Name": "Divya Murthy",
+    "Model Installed": "Philips HL1645",
+    "Purchase Date": "2023-12-20",
+    "Address": "196, Visakhapatnam, Andhra Pradesh"
+  },
+  {
+    "Mobile No": "9541113371",
+    "Customer Name": "Ramya Reddy",
+    "Model Installed": "Philips HD9216",
+    "Purchase Date": "2025-04-19",
+    "Address": "133, Hyderabad, Telangana"
+  },
+  {
+    "Mobile No": "9736681532",
+    "Customer Name": "Deepa Babu",
+    "Model Installed": "Philips GC1010",
+    "Purchase Date": "2023-12-21",
+    "Address": "136, Tirupati, Andhra Pradesh"
+  },
+  {
+    "Mobile No": "9882463847",
+    "Customer Name": "Shruti Prasad",
+    "Model Installed": "Philips HD4938/01",
+    "Purchase Date": "2023-11-06",
+    "Address": "196, Bengaluru, Karnataka"
+  },
+  {
+    "Mobile No": "9361743086",
+    "Customer Name": "Suresh Kumar",
+    "Model Installed": "Philips HL1606",
+    "Purchase Date": "2025-04-25",
+    "Address": "70, Tirupati, Andhra Pradesh"
+  },
+  {
+    "Mobile No": "9060501229",
+    "Customer Name": "Sneha Narayan",
+    "Model Installed": "Philips GC1015",
+    "Purchase Date": "2025-01-18",
+    "Address": "49, Coimbatore, Tamil Nadu"
+  },
+  {
+    "Mobile No": "9807552064",
+    "Customer Name": "Rahul Kumar",
+    "Model Installed": "Philips HL1645",
+    "Purchase Date": "2024-05-14",
+    "Address": "107, Hyderabad, Telangana"
+  },
+  {
+    "Mobile No": "9026577951",
+    "Customer Name": "Ramya Reddy",
+    "Model Installed": "Philips GC1015",
+    "Purchase Date": "2024-02-11",
+    "Address": "198, Visakhapatnam, Andhra Pradesh"
+  },
+  {
+    "Mobile No": "9242313690",
+    "Customer Name": "Indu Reddy",
+    "Model Installed": "Philips HP8321",
+    "Purchase Date": "2024-08-17",
+    "Address": "26, Visakhapatnam, Andhra Pradesh"
+  },
+  {
+    "Mobile No": "9598638968",
+    "Customer Name": "Arun Kumar",
+    "Model Installed": "Philips HD9216",
+    "Purchase Date": "2024-03-08",
+    "Address": "57, Tirupati, Andhra Pradesh"
+  },
+  {
+    "Mobile No": "9859573089",
+    "Customer Name": "Gayathri Teja",
+    "Model Installed": "Philips HL1632",
+    "Purchase Date": "2025-01-13",
+    "Address": "29, Visakhapatnam, Andhra Pradesh"
+  },
+  {
+    "Mobile No": "9792296832",
+    "Customer Name": "Anitha Murthy",
+    "Model Installed": "Philips HL1632",
+    "Purchase Date": "2024-02-21",
+    "Address": "69, Chennai, Tamil Nadu"
+  },
+  {
+    "Mobile No": "9068582023",
+    "Customer Name": "Gokul Raj",
+    "Model Installed": "Philips GC1015",
+    "Purchase Date": "2023-12-06",
+    "Address": "70, Visakhapatnam, Andhra Pradesh"
+  },
+  {
+    "Mobile No": "9879054300",
+    "Customer Name": "Ramya Krishna",
+    "Model Installed": "Philips HD9216",
+    "Purchase Date": "2023-09-10",
+    "Address": "13, Kochi, Kerala"
+  },
+  {
+    "Mobile No": "9760863683",
+    "Customer Name": "Revathi Murthy",
+    "Model Installed": "Philips HD9216",
+    "Purchase Date": "2024-08-16",
+    "Address": "88, Visakhapatnam, Andhra Pradesh"
+  },
+  {
+    "Mobile No": "9170747417",
+    "Customer Name": "Manoj Kumar",
+    "Model Installed": "Philips GC1015",
+    "Purchase Date": "2023-07-13",
+    "Address": "64, Mysuru, Karnataka"
+  },
+  {
+    "Mobile No": "9843284089",
+    "Customer Name": "Bhaskar Kumar",
+    "Model Installed": "Philips HP8100/46",
+    "Purchase Date": "2023-11-02",
+    "Address": "124, Chennai, Tamil Nadu"
+  },
+  {
+    "Mobile No": "9221366885",
+    "Customer Name": "Hari Chandran",
+    "Model Installed": "Philips HL1632",
+    "Purchase Date": "2024-02-27",
+    "Address": "138, Tirupati, Andhra Pradesh"
+  },
+  {
+    "Mobile No": "9732595879",
+    "Customer Name": "Mahesh Narayan",
+    "Model Installed": "Philips HL1606",
+    "Purchase Date": "2025-04-03",
+    "Address": "182, Hyderabad, Telangana"
+  },
+  {
+    "Mobile No": "9950327548",
+    "Customer Name": "Kiran Krishna",
+    "Model Installed": "Philips GC1905",
+    "Purchase Date": "2025-01-01",
+    "Address": "104, Madurai, Tamil Nadu"
+  },
+  {
+    "Mobile No": "9997312628",
+    "Customer Name": "Indu Narayan",
+    "Model Installed": "Philips HL1645",
+    "Purchase Date": "2023-12-01",
+    "Address": "199, Coimbatore, Tamil Nadu"
+  },
+  {
+    "Mobile No": "9823535346",
+    "Customer Name": "Naveen Kumar",
+    "Model Installed": "Philips HD4938/01",
+    "Purchase Date": "2024-03-05",
+    "Address": "13, Visakhapatnam, Andhra Pradesh"
+  },
+  {
+    "Mobile No": "9929676772",
+    "Customer Name": "Deepa Babu",
+    "Model Installed": "Philips GC1010",
+    "Purchase Date": "2025-03-09",
+    "Address": "113, Tirupati, Andhra Pradesh"
+  },
+  {
+    "Mobile No": "9899780224",
+    "Customer Name": "Revathi Raj",
+    "Model Installed": "Philips GC1015",
+    "Purchase Date": "2025-02-16",
+    "Address": "150, Visakhapatnam, Andhra Pradesh"
+  },
+  {
+    "Mobile No": "9908405320",
+    "Customer Name": "Anitha Kumar",
+    "Model Installed": "Philips HP8321",
+    "Purchase Date": "2024-02-17",
+    "Address": "3, Chennai, Tamil Nadu"
+  },
+  {
+    "Mobile No": "9286896932",
+    "Customer Name": "Muthuvel Murthy",
+    "Model Installed": "Philips HD4928/01",
+    "Purchase Date": "2025-02-10",
+    "Address": "160, Hyderabad, Telangana"
+  },
+  {
+    "Mobile No": "9548778830",
+    "Customer Name": "Naveen Prasad",
+    "Model Installed": "Philips HD4928/01",
+    "Purchase Date": "2024-08-23",
+    "Address": "103, Visakhapatnam, Andhra Pradesh"
+  },
+  {
+    "Mobile No": "9061405934",
+    "Customer Name": "Arvind Murthy",
+    "Model Installed": "Philips HL7756/00",
+    "Purchase Date": "2023-09-19",
+    "Address": "189, Thiruvananthapuram, Kerala"
+  }
+]
